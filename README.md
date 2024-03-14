@@ -12,4 +12,13 @@
 
 | 版本              |
 | ----------------- |
-| 2024.1.0 |
+| 2024.2.0 |
+
+## idea插件
+  替换插件目录的instrumented-restful-fast-request-pro-2024.1.3.jar文件,idea配置同jetbra一致
+| Fast Request - API Buddy             |
+| ----------------- |
+| 2024.1.3  |
+
+
+
