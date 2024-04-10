@@ -15,10 +15,11 @@
 | 2024.2.0 |
 
 ## idea插件
-  替换插件目录的instrumented-restful-fast-request-pro-2024.1.3.jar文件,idea配置同jetbra一致
+  默认你的idea是jetbra激活，替换插件目录(例如:/Users/payne/Library/Application Support/JetBrains/IntelliJIdea2024.1/plugins/Fast Request - API Buddy/lib/)的instrumented-restful-fast-request-pro-2024.1.4.jar文件
+  
 | Fast Request - API Buddy             |
 | ----------------- |
-| 2024.1.3  |
+| 2024.1.4  |
 
 
 
